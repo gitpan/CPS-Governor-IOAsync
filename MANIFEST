@@ -1,0 +1,11 @@
+Build.PL
+Changes
+lib/CPS/Governor/IOAsync.pm
+MANIFEST			This list of files
+t/00use.t
+t/01defer.t
+t/02loop-later.t
+Makefile.PL
+README
+LICENSE
+META.yml
