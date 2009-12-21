@@ -6,7 +6,7 @@ WriteMakefile
           'VERSION_FROM' => 'lib/CPS/Governor/IOAsync.pm',
           'PREREQ_PM' => {
                            'CPS' => '0.06',
-                           'IO::Async' => '0.24',
+                           'IO::Async::Loop' => '0.24',
                            'Test::More' => 0
                          },
           'INSTALLDIRS' => 'site',
